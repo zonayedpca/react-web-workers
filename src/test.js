@@ -1,7 +1,7 @@
-import ExampleComponent from '.'
+import WebWorker from '.'
 
-describe('ExampleComponent', () => {
-  it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+describe('WebWorker', () => {
+  it('is a Function', () => {
+    expect(String(typeof WebWorker)).toBe('function')
   })
 })

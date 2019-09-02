@@ -1,10 +1,10 @@
 {
-  "name": "react-modern-library-boilerplate",
-  "version": "1.4.1",
-  "description": "Boilerplate for publishing modern React modules with Rollup",
-  "author": "Travis Fischer",
+  "name": "react-web-worker",
+  "version": "1.0.0",
+  "description": "Simplest wat to work with Web Workers in React",
+  "author": "Zonayed Ahmed",
   "license": "MIT",
-  "repository": "transitive-bullshit/react-modern-library-boilerplate",
+  "repository": "zonayedpca/react-web-worker",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {

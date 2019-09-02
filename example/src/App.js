@@ -1,12 +1,17 @@
 import React, { Component } from 'react'
 
-import ExampleComponent from 'react-web-worker'
+import WebWorker from 'react-web-worker'
+
+import message from './workers/message'
+import count from './workers/count'
 
 export default class App extends Component {
   render () {
+    const [ messageWorker, countWorker ] = WebWorker([message, count])
+    messageWorker.postMessage('Hi!')
     return (
       <div>
-        <ExampleComponent text='Working with Web Workers in React' />
+        <p>Web Worker</p>
       </div>
     )
   }

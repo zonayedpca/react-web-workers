@@ -1,6 +1,6 @@
 {
-  "name": "react-web-worker-example",
-  "homepage": "https://zonayedpca.github.io/react-web-worker",
+  "name": "react-web-workers-example",
+  "homepage": "https://zonayedpca.github.io/react-web-workers",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
@@ -8,7 +8,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-web-worker": "link:..",
+    "react-web-workers": "link:..",
     "react-scripts": "^1.1.4"
   },
   "scripts": {

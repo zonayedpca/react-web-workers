@@ -1,10 +1,10 @@
 {
-  "name": "react-web-worker",
+  "name": "react-web-workers",
   "version": "1.0.0",
   "description": "Simplest wat to work with Web Workers in React",
   "author": "Zonayed Ahmed",
   "license": "MIT",
-  "repository": "zonayedpca/react-web-worker",
+  "repository": "zonayedpca/react-web-workers",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {

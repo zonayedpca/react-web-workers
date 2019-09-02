@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import WebWorker from 'react-web-worker'
+import WebWorker from 'react-web-workers'
 
 import message from './workers/message'
 import count from './workers/count'

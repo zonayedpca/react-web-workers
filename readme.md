@@ -1,4 +1,4 @@
-# react-web-worker
+# react-web-workers
 
 > A Simple Library to use web worker with your React Application Easily
 
@@ -15,7 +15,7 @@ If you are using some expensive processes inside your webpage, make sure you don
 
 ## Examples
 
-- Here's an Example of this library [Example](https://github.com/https://github.com/zonayedpca/react-web-worker/tree/master/example)
+- Here's an Example of this library [Example](https://github.com/https://github.com/zonayedpca/react-web-workers/tree/master/example)
 - Here's an Example of web worker in Action [Web Worker in Action](https://github.com/zonayedpca/web-workers)
 
 ## License
